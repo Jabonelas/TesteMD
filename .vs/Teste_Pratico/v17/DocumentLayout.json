@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\israe\\source\\repos\\Teste_Pratico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD15B6EE-1CB6-45C4-A7D1-E67FA344E087}|Aplicacao_Teste\\Aplicacao_Teste.csproj|c:\\users\\israe\\source\\repos\\teste_pratico\\aplicacao_teste\\teste_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD15B6EE-1CB6-45C4-A7D1-E67FA344E087}|Aplicacao_Teste\\Aplicacao_Teste.csproj|solutionrelative:aplicacao_teste\\teste_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97810090-E0DF-4208-A511-9901F26312CB}|Aplicacao\\Aplicacao.csproj|c:\\users\\israe\\source\\repos\\teste_pratico\\aplicacao\\aplicacao_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97810090-E0DF-4208-A511-9901F26312CB}|Aplicacao\\Aplicacao.csproj|solutionrelative:aplicacao\\aplicacao_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC9D1E9-766C-4D2E-9C96-E344A329495E}|Teste_Pratico.Infra\\Teste_Pratico.Infra.csproj|c:\\users\\israe\\source\\repos\\teste_pratico\\teste_pratico.infra\\repositorio\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC9D1E9-766C-4D2E-9C96-E344A329495E}|Teste_Pratico.Infra\\Teste_Pratico.Infra.csproj|solutionrelative:teste_pratico.infra\\repositorio\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC9D1E9-766C-4D2E-9C96-E344A329495E}|Teste_Pratico.Infra\\Teste_Pratico.Infra.csproj|c:\\users\\israe\\source\\repos\\teste_pratico\\teste_pratico.infra\\service\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC9D1E9-766C-4D2E-9C96-E344A329495E}|Teste_Pratico.Infra\\Teste_Pratico.Infra.csproj|solutionrelative:teste_pratico.infra\\service\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\Teste_Pratico\\Teste_Pratico.Infra\\Service\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "Teste_Pratico.Infra\\Service\\ProdutoService.cs",
+              "ToolTip": "C:\\Users\\israe\\source\\repos\\Teste_Pratico\\Teste_Pratico.Infra\\Service\\ProdutoService.cs",
+              "RelativeToolTip": "Teste_Pratico.Infra\\Service\\ProdutoService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAApwD0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:42:50.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\Teste_Pratico\\Teste_Pratico.Infra\\Repositorio\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "Teste_Pratico.Infra\\Repositorio\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\israe\\source\\repos\\Teste_Pratico\\Teste_Pratico.Infra\\Repositorio\\ProdutoRepository.cs",
+              "RelativeToolTip": "Teste_Pratico.Infra\\Repositorio\\ProdutoRepository.cs",
+              "ViewState": "AgIAAP0AAAAAAAAAAAD4vxwBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:40:18.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teste_Produto.cs",
+              "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\Teste_Pratico\\Aplicacao_Teste\\Teste_Produto.cs",
+              "RelativeDocumentMoniker": "Aplicacao_Teste\\Teste_Produto.cs",
+              "ToolTip": "C:\\Users\\israe\\source\\repos\\Teste_Pratico\\Aplicacao_Teste\\Teste_Produto.cs",
+              "RelativeToolTip": "Aplicacao_Teste\\Teste_Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:56:42.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aplicacao_produto.cs",
+              "DocumentMoniker": "C:\\Users\\israe\\source\\repos\\Teste_Pratico\\Aplicacao\\Aplicacao_produto.cs",
+              "RelativeDocumentMoniker": "Aplicacao\\Aplicacao_produto.cs",
+              "ToolTip": "C:\\Users\\israe\\source\\repos\\Teste_Pratico\\Aplicacao\\Aplicacao_produto.cs",
+              "RelativeToolTip": "Aplicacao\\Aplicacao_produto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:49:45.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
