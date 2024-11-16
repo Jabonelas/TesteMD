@@ -13,7 +13,7 @@
 * .NET Framework 4.6
 * C#
 * Windows Forms
-* PostgreSQL (especificar versão na entrega)
+* PostgreSQL (Versão 17.0-1) link para download - https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 * NPGSQL
 * Git
 * ReportViewer
